@@ -8,7 +8,7 @@
   ],
   "routes": [
   {
-    "src": "/(.*)",
+    "src": "/dash-wv/linear/(.*)",
     "dest": "/index.php?get=$1"
   }
 ],
